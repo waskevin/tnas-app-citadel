@@ -1,9 +1,6 @@
 services:
   citadel:
-    image: 
-citadeldotorg/citadel
-:
-v17947067
+    image: citadeldotorg/citadel:v17947067
     restart: unless-stopped
     environment:
       TZ: Asia/Shanghai

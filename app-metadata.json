@@ -1,0 +1,13 @@
+{
+  "name": "Citadel",
+  "source": "https://www.citadel.org/",
+  "docker_image": "citadeldotorg/citadel:v17947067",
+  "version": "v17947067",
+  "repository": "https://github.com/waskevin/tnas-app-citadel",
+  "architectures": [
+    "linux/amd64",
+    "linux/arm64"
+  ],
+  "description": "Citadel container application prepared for TerraMaster TOS",
+  "submission_status": "not_submitted"
+}
